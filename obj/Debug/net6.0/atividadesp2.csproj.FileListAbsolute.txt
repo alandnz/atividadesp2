@@ -1,0 +1,15 @@
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\bin\Debug\net6.0\atividadesp2.exe
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\bin\Debug\net6.0\atividadesp2.deps.json
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\bin\Debug\net6.0\atividadesp2.runtimeconfig.json
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\bin\Debug\net6.0\atividadesp2.dll
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\bin\Debug\net6.0\atividadesp2.pdb
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.csproj.AssemblyReference.cache
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.AssemblyInfoInputs.cache
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.AssemblyInfo.cs
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.csproj.CoreCompileInputs.cache
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.dll
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\refint\atividadesp2.dll
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.pdb
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\atividadesp2.genruntimeconfig.cache
+C:\Users\salaz\OneDrive\Área de Trabalho\_senai\atividadesp2\obj\Debug\net6.0\ref\atividadesp2.dll
